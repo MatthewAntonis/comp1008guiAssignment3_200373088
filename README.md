@@ -15,7 +15,8 @@
 <p/>
 
 ## My Design: 
-
+- Green Logo in bottom right is my Grammarly App on the screen
+  
 <p align="center">
 <img width="300" src="https://github.com/MatthewAntonis/comp1008guiAssignment3_200373088/assets/122380719/ce8c9f22-a206-4be2-8d7e-1eaeca155ee9">
 <p/>
