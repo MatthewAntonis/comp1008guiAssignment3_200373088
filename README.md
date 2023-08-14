@@ -8,9 +8,16 @@
 - The app will only place the student in an empty slot and will give an error message when there are no more places available
 
 ## Example Given: 
+- Don't need to copy it 1 to 1.
 
 <p align="center">
 <img width="300" src="https://github.com/MatthewAntonis/comp1008guiAssignment3_200373088/assets/122380719/db02be5b-d4b9-458b-a0ec-e5934f7c1cd8">
+<p/>
+
+## My Design: 
+
+<p align="center">
+<img width="300" src="https://github.com/MatthewAntonis/comp1008guiAssignment3_200373088/assets/122380719/ce8c9f22-a206-4be2-8d7e-1eaeca155ee9">
 <p/>
 
 ## How to Run
